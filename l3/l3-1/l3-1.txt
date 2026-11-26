@@ -1,0 +1,14 @@
+Student: Bilas Mykolai | Group: KI-25-1 | Variant: 2
+Send: I 7 2 (x3), I 7 (x3), I x (x3) with Newline
+a=7; b=2; a/b=3; parse_ms=1
+a=7; b=2; a/b=3; parse_ms=1
+a=7; b=2; a/b=3; parse_ms=0
+a=7; b=2; a/b=3; parse_ms=0
+a=7; b=0; ERROR_DIV0_OR_MISSING; parse_ms=250
+a=7; b=0; ERROR_DIV0_OR_MISSING; parse_ms=250
+a=7; b=0; ERROR_DIV0_OR_MISSING; parse_ms=250
+a=7; b=7; a/b=1; parse_ms=0
+a=0; b=0; ERROR_DIV0_OR_MISSING; parse_ms=500
+a=0; b=0; ERROR_DIV0_OR_MISSING; parse_ms=500
+a=0; b=0; ERROR_DIV0_OR_MISSING; parse_ms=500
+a=0; b=0; ERROR_DIV0_OR_MISSING; parse_ms=501

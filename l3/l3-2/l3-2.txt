@@ -1,0 +1,10 @@
+Student: Bilas Mykolai | Group: KI-25-1 | Variant: 2
+READY: enter 'a b' in [-90..90] ending with LF (115200 baud)
+a=3; b=4; F=49
+a=-90; b=90; F=0
+a=90; b=90; F=32400
+a=91; b=0; ERROR_RANGE
+ERROR_SEPARATOR
+ERROR_FORMAT_B
+ERROR_EXTRA
+a=3; b=4; F=49
